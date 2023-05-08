@@ -6,7 +6,7 @@ The goal of this project is to build a chatbot that can have a conversation with
 <h1><b>Project Structure</b></h1>
 The project has the following files:
 
-intents.json: Contains all the intents of the chatbot.\n
+intents.json: Contains all the intents of the chatbot.
 MentalHeathChatbot.ipynb: The main Jupyter Notebook containing the code for training the chatbot.
 MentalHeathChatbot.pkl: The trained chatbot model.
 README.md: This file containing project overview.
