@@ -15,3 +15,6 @@ README.md: This file containing project overview.
 The chatbot uses a neural network trained on the intents.json file to understand user's inquiries about mental health. The neural network is trained using the PyTorch library. The chatbot uses the nltk library for natural language processing, including tokenization, stemming and bag of words model.
 
 The chatbot can be trained by running the MentalHealthChatbot.ipynb file. Once trained, the model is saved as a pickle file, which can be loaded and used for chatbot response generation.
+
+![image](https://user-images.githubusercontent.com/102237174/236930848-503090e0-aedb-43bc-a0bc-a8f9331ff52e.png)
+
